@@ -1,0 +1,10 @@
+#pragma once
+enum ACTION_RET 
+{
+	FILE_NOT_OPEN, 
+	FATAL_ERROR, 
+	EMPTY_FILE, 
+	WRONG_DATA,
+	SUCCESS_ACT,
+	NO_DATA
+};

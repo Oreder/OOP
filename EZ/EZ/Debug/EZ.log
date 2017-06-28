@@ -1,0 +1,47 @@
+﻿Build started 5/22/2016 9:14:24 PM.
+     1>Project "E:\[1] MGTU_Programming\Object Oriented Programming\EZ\EZ\EZ.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\EZ.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"E:\[1] MGTU_Programming\Object Oriented Programming\EZ\EZ\\" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\EZ.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt ..\entry.cpp /clr:nostdlib 
+         entry.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"E:\[1] MGTU_Programming\Object Oriented Programming\EZ\EZ\\" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /analyze- /errorReport:prompt "C:\Users\BINH\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\app.res" app.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\[1] MGTU_Programming\Object Oriented Programming\EZ\Debug\EZ.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\EZ.Form1.resources /MANIFEST /ManifestFile:"Debug\EZ.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\[1] MGTU_Programming\Object Oriented Programming\EZ\Debug\EZ.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\canvas_work.obj
+         Debug\convertation.obj
+         Debug\draw_figure.obj
+         Debug\entry.obj
+         Debug\load_file.obj
+         Debug\point_and_edge.obj
+         Debug\point_arr_and_edge_arr.obj
+         Debug\read_coordinates.obj
+         Debug\read_points_and_edges.obj
+         Debug\screen_work.obj
+         Debug\transform.obj
+         Debug\transform_point.obj
+         Debug\transform_point_arr.obj
+         Debug\AssemblyInfo.obj
+         Debug\EZ.obj
+         Debug\figure.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         EZ.vcxproj -> E:\[1] MGTU_Programming\Object Oriented Programming\EZ\Debug\EZ.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\[1] MGTU_Programming\Object Oriented Programming\EZ\Debug\EZ.exe;#1" /manifest Debug\EZ.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\EZ.unsuccessfulbuild".
+         Touching "Debug\EZ.lastbuildstate".
+     1>Done Building Project "E:\[1] MGTU_Programming\Object Oriented Programming\EZ\EZ\EZ.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.63

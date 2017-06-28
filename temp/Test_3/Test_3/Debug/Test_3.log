@@ -1,0 +1,11 @@
+﻿Build started 4/15/2016 2:30:21 AM.
+     1>Project "E:\Object Oriented Programming\Test_3\Test_3\Test_3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Test_3.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+     1>e:\object oriented programming\test_3\test_3\stdafx.cpp(5): fatal error C1854: cannot overwrite information formed during creation of the precompiled header in object file: 'e:\object oriented programming\test_3\test_3\debug\stdafx.obj'
+     1>Done Building Project "E:\Object Oriented Programming\Test_3\Test_3\Test_3.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.11

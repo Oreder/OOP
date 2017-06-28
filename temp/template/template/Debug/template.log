@@ -1,0 +1,19 @@
+﻿Build started 5/17/2016 3:19:24 PM.
+     1>Project "E:\Object Oriented Programming\template\template\template.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>e:\object oriented programming\template\template\source.h(15): error C2143: syntax error : missing ';' before '&'
+                 e:\object oriented programming\template\template\source.h(20) : see reference to class template instantiation 'Set_t<T>' being compiled
+     1>e:\object oriented programming\template\template\source.h(15): error C2433: 'ostream' : 'friend' not permitted on data declarations
+     1>e:\object oriented programming\template\template\source.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>e:\object oriented programming\template\template\source.h(15): error C2238: unexpected token(s) preceding ';'
+     1>e:\object oriented programming\template\template\source.h(15): warning C4346: 'Set_t<T>::<<' : dependent name is not a type
+                 prefix with 'typename' to indicate a type
+     1>e:\object oriented programming\template\template\source.h(15): error C2061: syntax error : identifier 'ostream'
+     1>e:\object oriented programming\template\template\source.h(15): fatal error C1903: unable to recover from previous error(s); stopping compilation
+     1>Done Building Project "E:\Object Oriented Programming\template\template\template.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.04
